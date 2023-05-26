@@ -1,4 +1,4 @@
-# High-traffic-recipes-prediction-project
+# High traffic recipes prediction
 
 ## Project Background
 The product manager would like us to:
