@@ -1,6 +1,8 @@
 # High traffic recipes prediction
 
 ## Project Background
+![image](https://github.com/vaadewoyin/High-traffic-recipes-prediction/blob/main/image.jpg)
+
 The product manager would like us to:
 -  Predict which recipes will lead to high traffic
 -   Correctly predict high traffic recipes 80% of the time
